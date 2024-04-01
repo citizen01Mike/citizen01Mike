@@ -1,4 +1,7 @@
 ### Hi there 👋 I am Miks
+
+a developer knowledgable in C# and .NET also I,m interested in machine learning, AI and data science.
+
 <h3 align="left">Connect with me:
 <p>
   <a href="https://www.linkedin.com/in/miks-laudams-2a5a002b9/" rel="nofollow noreferrer">
