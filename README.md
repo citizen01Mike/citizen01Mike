@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Miks
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)</h3>
 <p align="left">
 </p>
 
