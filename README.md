@@ -1,4 +1,5 @@
-### Hi there 👋 I am Miks Laudams
+### Hi there 👋 I am Miks
+
 
 <!--
 **citizen01Mike/citizen01Mike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
