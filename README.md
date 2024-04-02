@@ -4,7 +4,7 @@ a developer knowledgable in C# and .NET, also I'm interested in machine learning
 
 <h3 align="left">Connect with me:
 <p>
-  <a href="https://www.linkedin.com/in/miks-laudams-2a5a002b9/" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/miks-laudams/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/citizen01Mike" rel="nofollow noreferrer">
