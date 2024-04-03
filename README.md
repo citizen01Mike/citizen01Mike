@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Miks
 
-a developer knowledgable in C# and .NET, also I'm interested in machine learning, AI and data science.
+Innovative Software Developer knowledgable in .NET Framework and C#.
 
 <h3 align="left">Connect with me:
 <p>
