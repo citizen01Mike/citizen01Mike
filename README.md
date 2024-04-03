@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Miks
 
-Innovative Software Developer knowledgable in .NET Framework and C#.
+Innovative Software Developer knowledgable in .NET Framework and C#.  
 
 <h3 align="left">Connect:
 <p>
