@@ -20,7 +20,8 @@ Innovative Software Developer knowledgable in .NET Framework and C#.
 
 GitHub stats:
 
-![citizen01Mike's Stats](https://github-readme-stats.vercel.app/api?username=citizen01Mike&theme=Default&show_icons=true&hide_border=true&count_private=false)
+
+![citizen01Mike's Stats](https://github-readme-stats.vercel.app/api?username=citizen01Mike&theme=Default&show_icons=true&hide_border=false&count_private=false)
 ![citizen01Mike's Streak](https://github-readme-streak-stats.herokuapp.com/?user=citizen01Mike&theme=Default&hide_border=false)
 ![citizen01Mike's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=citizen01Mike&theme=Default&show_icons=true&hide_border=false&layout=compact)
 
