@@ -2,7 +2,7 @@
 
 Innovative Software Developer knowledgable in .NET Framework and C#.
 
-<h3 align="left">Connect with me:
+<h3 align="left">Connect:
 <p>
   <a href="https://www.linkedin.com/in/miks-laudams/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
